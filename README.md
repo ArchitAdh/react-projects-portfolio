@@ -1,1 +1,59 @@
-# react-projects-portfolio
+# Archit's React Projects Portfolio
+
+This is a **portfolio page** showcasing my React frontend projects.  
+The projects are **hosted live on Netlify** and the code is available on GitHub.
+
+---
+
+## Live Portfolio Page
+
+Check out the live portfolio with clickable project cards here:  
+🌐 [Live Portfolio](https://your-portfolio-netlify-link.netlify.app)
+
+---
+
+## Projects
+
+| Project           | Live Demo                                               | GitHub Repository                                      | Status              |
+| ----------------- | ------------------------------------------------------- | ------------------------------------------------------ | ------------------- |
+| Tic Tac Toe       | [Live](https://architadh.netlify.app/tic-tac-toe-react) | [Code](https://github.com/ArchitAdh/tic-tac-toe-react) | ✅ Completed        |
+| Flappy Bird Clone | Coming Soon                                             | TBD                                                    | 🚧 Work in Progress |
+| Maze Game         | Coming Soon                                             | TBD                                                    | 🚧 Work in Progress |
+| Next Project      | Coming Soon                                             | TBD                                                    | 🚧 Work in Progress |
+
+---
+
+## About
+
+- Built with **React (CRA)** for interactive UI experiences.
+- Portfolio page itself is built using **HTML + CSS** to showcase multiple projects in a clean card layout.
+- This repo is meant to serve as a **central hub** linking my live React projects for easy demonstration.
+
+---
+
+## How to Contribute
+
+1. Fork the repository.
+2. Add your project card in `index.html` inside the `.projects-container` div.
+3. Update the live link and GitHub repo URL in the table.
+4. Submit a pull request.
+
+---
+
+## Tech Stack
+
+- React (for individual projects)
+- HTML, CSS (for portfolio page)
+- Netlify (for hosting live apps)
+- Git & GitHub (for version control)
+
+---
+
+## Notes
+
+- Each project is hosted **independently on Netlify**, so the portfolio page only links to the live versions.
+- Future projects will be added as they are completed.
+
+---
+
+**© 2026 Archit Adhikari**
