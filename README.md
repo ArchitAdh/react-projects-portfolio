@@ -14,11 +14,10 @@ Check out the live portfolio with clickable project cards here:
 
 ## Projects
 
-| Project     | Live Demo                                     | GitHub Repository                                      | Status       |
-| ----------- | --------------------------------------------- | ------------------------------------------------------ | ------------ |
-| Tic Tac Toe | [Live](https://archit-tictactoe.netlify.app/) | [Code](https://github.com/ArchitAdh/tic-tac-toe-react) | ✅ Completed |
-
-| Next Project | Coming Soon | TBD| 🚧 Work in Progress |
+| Project      | Live Demo                                     | GitHub Repository                                      | Status              |
+| ------------ | --------------------------------------------- | ------------------------------------------------------ | ------------------- |
+| Tic Tac Toe  | [Live](https://archit-tictactoe.netlify.app/) | [Code](https://github.com/ArchitAdh/tic-tac-toe-react) | ✅ Completed        |
+| Next Project | Coming Soon                                   | TBD                                                    | 🚧 Work in Progress |
 
 ---
 
