@@ -29,15 +29,6 @@ Check out the live portfolio with clickable project cards here:
 
 ---
 
-## How to Contribute
-
-1. Fork the repository.
-2. Add your project card in `index.html` inside the `.projects-container` div.
-3. Update the live link and GitHub repo URL in the table.
-4. Submit a pull request.
-
----
-
 ## Tech Stack
 
 - React (for individual projects)
