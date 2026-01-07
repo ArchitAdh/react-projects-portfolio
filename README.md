@@ -1,4 +1,4 @@
-# Archit's React Projects Portfolio
+# React Projects Portfolio
 
 This is a **portfolio page** showcasing my React frontend projects.  
 The projects are **hosted live on Netlify** and the code is available on GitHub.
